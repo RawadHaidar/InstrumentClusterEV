@@ -4,8 +4,8 @@ EV instrument cluster android UI, shows real-time CAN-Bus data on android tablet
 
 ## Getting Started
 
--The flutter application is showing speed, power, battery level, gear selected, and right-left signals.
--There are so many other information that CAN-BUS can provide like rpm, throttle position, heat readings, fault codes, and other sensors readings,  etc...
+- The flutter application is showing speed, power, battery level, gear selected, and right-left signals.
+- There are so many other information that CAN-BUS can provide like rpm, throttle position, heat readings, fault codes, and other sensors readings,  etc...
 Arduino will be able to accept inputs other than CAN-BUS, I used the digital inputs to check which gear is selected and also to check the light signals.
 The C code for arduino is including calculations and some settings that relate to CAN-BUS communication.
 I used syncfusion_flutter_gauges library for flutter, it is easy to use.
