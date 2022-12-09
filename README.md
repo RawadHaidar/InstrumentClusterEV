@@ -14,7 +14,7 @@ Other useful plugins like Google maps can be added to the interface.
 
 ## Hardware:
 - CAN-BUS is a communication system that can connect all the electronic control units inside the vehicle together.
-- My work on the GUI started after integrating the Hyper9 EV conversion kit inside a vehicle.
+- My work on the GUI started after integrating the EV conversion kit inside a vehicle.
 - CAN-BUS sheild from SparkFun is a board that can be easily integrated with Arduino UNO board, it has DB9 connector including CAN-H and CAN-L ports to connect to OBD-II.
 - I'm using usb-serial to connect the arduino board to the Android tablet (USB to type-B converter).
 
