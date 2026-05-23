@@ -1,7 +1,7 @@
 # EV Instrument Cluster Flutter Application
 # flutter_application_629
 
-EV instrument cluster android UI, shows CAN bus real-time data of Hyper9 motor controller and Orion battery management system.
+A real-time EV instrument cluster and telemetry platform built with Flutter, integrating CAN bus data from Hyper9 motor controllers and Orion BMS systems. Designed for electric vehicle conversions, custom EV dashboards, and next-generation infotainment systems.
 
 ## Getting Started
 ![Screenshot](assets/Screenshot_1669986012.png)
@@ -13,6 +13,17 @@ EV instrument cluster android UI, shows CAN bus real-time data of Hyper9 motor c
 - I used syncfusion_flutter_gauges library for flutter, it is easy to use.
 Other useful plugins like Google maps can be added to the interface.
 
+## Key Features:
+- Real-time CAN bus telemetry visualization
+- Hyper9 motor controller integration
+- Orion BMS integration
+- Responsive Flutter-based Android dashboard
+- Speed, power, battery, and gear monitoring
+- Turn signal and digital input integration
+- Expandable architecture for GPS, diagnostics, and infotainment
+- Arduino-based CAN decoding layer
+- Designed for EV conversion projects and custom vehicle platforms
+
 ## Hardware:
 - CAN bus is a communication system that can connect all the electronic control units inside the vehicle together.
 - My work on the GUI started after integrating the Hyper9 motor EV conversion kit inside a vehicle.
@@ -20,7 +31,7 @@ Other useful plugins like Google maps can be added to the interface.
 - I'm using usb-serial to connect the arduino board to the Android tablet (USB to type-B converter).
 
 ## Other:  
-- Currently the application is running well inside the car without any issues.
+- Currently the application is successfully deployed and tested in a real EV-converted vehicle under live driving conditions.
 - I need suggestions.
 - I'm ready to help if anyone is interested, we can discuss about the C and Dart scripts, also about the communication system and hardware specifications.
 - This project could be helpful for who is working on electric vehicle conversion kits, and planning to design his own instrument cluster and infotainment system.
