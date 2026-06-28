@@ -29,6 +29,7 @@ Other useful plugins like Google maps can be added to the interface.
 - My work on the GUI started after integrating the Hyper9 motor EV conversion kit inside a vehicle.
 - CAN bus sheild from SparkFun is a board that can be easily integrated with Arduino UNO board, it has DB9 connector including CAN-H and CAN-L ports to connect to OBD-II.
 - I'm using usb-serial to connect the arduino board to the Android tablet (USB to type-B converter).
+- Electric power terrain reference: https://evshop.eu/en/conversion-kits/773-hyper9-universal-ev-conversion-kit-lv-hv.html
 
 ## Other:  
 - Currently the application is successfully deployed and tested in a real EV-converted vehicle under live driving conditions.
