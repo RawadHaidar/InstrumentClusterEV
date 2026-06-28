@@ -1,7 +1,7 @@
 # EV Instrument Cluster Flutter Application
 # flutter_application_629
 
-A real-time EV instrument cluster and telemetry platform built with Flutter, integrating CAN bus data of Hyper9 motor controllers and Orion BMS systems. Designed for electric vehicle conversion kits, custom EV dashboards, and next-generation infotainment systems.
+A real-time EV instrument cluster and telemetry Android platform built with Flutter, integrating CAN-bus communication with Hyper9 motor controllers, the Orion Battery Management System (BMS), and vehicle subsystems such as the Body Control Unit (BCU). Designed for electric vehicle conversion kits, custom digital dashboards, telemetry monitoring, and next-generation EV infotainment systems.
 
 ## Getting Started
 ![Screenshot](assets/Screenshot_1669986012.png)
